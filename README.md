@@ -111,10 +111,10 @@
             <form action="/submit-form" method="POST">
                 <label for="name">Name:</label><br>
                 <input type="text" id="name" name="name"Danjuma Abdulrahaman.
-                <label for="email">Email:</label><br>
-                <input type="email" id="email" name="email" required><br>
+                <label for="email">Email:</label><br>abrahamdanjuma2021@gmail.com
+                <input type="email" id="email" name="email" required>abrahamdanjuma2021@gmail.com<br>
                 <label for="message">Message:</label><br>
-                <textarea id="message" name="message" required></textarea><br>
+                <textarea id="message" name DANJUMA ABDULRAHAMAN 
                 <button type="submit">Submit</button>
             </form>
         </section>
