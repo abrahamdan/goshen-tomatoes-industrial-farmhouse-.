@@ -106,10 +106,10 @@
             <p>If you have any questions or need more information, please reach out to us.</p>
             <p>Email: <a href="mailto:info@goshenfarmhouse.com">info@goshenfarmhouse.com</a></p>
             <p>Phone: +123 7036757825
-            <p>Address: 1234 Farm Lane, Agriculture City, AG 56789</p>
+            <p>Address: 1234 Farm Lane, Agriculture City, Sauka lugbe Abuja Nigeria.
             <h3>Contact Form</h3>
             <form action="/submit-form" method="POST">
-                <label for="name">Name:</label><br>
+                <label for="name">Name: Danjuma Abdulrahaman 
                 <input type="text" id="name" name="name"Danjuma Abdulrahaman.
                 <label for="email">Email:</label><br>abrahamdanjuma2021@gmail.com
                 <input type="email" id="email" name="email" required>abrahamdanjuma2021@gmail.com<br>
